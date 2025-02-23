@@ -1,0 +1,1 @@
+ /Users/kjy/flutter_auto_frame/.dart_tool/flutter_build/e7eb9ee142038217401c1438489d309e/native_assets.json: 
